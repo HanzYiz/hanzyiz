@@ -34,7 +34,7 @@
 
 
 <div align="center">
- <samp><h1>HnazYis Github stats</h1></samp> 
+ <samp><h1>HanzYis Github stats</h1></samp> 
 </div>
 
 <div align="center">
