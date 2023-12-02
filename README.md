@@ -11,7 +11,7 @@
 
 <div align="center">
 <samp>
- 🖖 Lua Lover | ☕️ Coffe Lover | 🌵 Web Developer 
+ 🖖 C++ Lover | ☕️ Coffe Lover | 🌵 Web Developer 
  </samp>
  <br>
  <samp>
@@ -34,10 +34,10 @@
 
 
 <div align="center">
- <samp><h1>HanzYis Github stats</h1></samp> 
+ <samp><h1>HanzYiz Github stats</h1></samp> 
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzyis&show_icons=true&theme=tokyonight&hide_border=true" height="150">
-<img src="https://github-readme-stats.vercel.app/api?username=hanzyis&show_icons=true&theme=tokyonight&hide_border=true" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzyiz&show_icons=true&theme=tokyonight&hide_border=true" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=hanzyiz&show_icons=true&theme=tokyonight&hide_border=true" height="150">
 </div>
