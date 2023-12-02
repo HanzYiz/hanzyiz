@@ -30,6 +30,7 @@
  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white">
+ <img src="https://img.shields.io/badge/Cpp-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
 </div>
 
 
